@@ -1,0 +1,9 @@
+build
+/build
+dist
+/dist
+venv
+/venv
+metal.spec
+transactions.csv
+scrap_metal.db
