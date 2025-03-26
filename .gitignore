@@ -7,3 +7,5 @@ venv
 metal.spec
 transactions.csv
 scrap_metal.db
+moldaviya.py
+zarplata.py
